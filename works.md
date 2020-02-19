@@ -1,6 +1,5 @@
 ---
 layout: page
-title: CV
 permalink: /cv/
 ---
 # CV
@@ -23,6 +22,7 @@ permalink: /cv/
   - Michio Hosaka, <u>Shimpei Okuda</u>, Kazutoshi Sasahara, Evolutionary forces in the development of the english perfect construction, [EvoLang XIII](https://brussels.evolang.org/), Vrije Universiteit Brussel, Brussels, Belgium, 14-17 April 2020 [[Proceeding]](https://brussels.evolang.org/proceedings/paper.html?nr=21)
 
 - Poster ポスター
+
 --
 
 #### Non Reviewed 査読なし
@@ -30,6 +30,7 @@ permalink: /cv/
   - 保坂道雄，奥田慎平，英語の BE 完了構⽂の盛衰をめぐって，[日本歴史言語学会2019年次大会](http://s3-ap-northeast-1.amazonaws.com/jp-histling.com/wp-content/uploads/2019/06/26145358/2019JSHL_poster.pdf)，広島大学，2019年12月14日-15日 [[Abstract]](https://drive.google.com/open?id=1dsGrroKfmmXAFRPVell64v4x9ZUVfbXA)
 
 - Poster ポスター
+
 --
 
 ### Academic dissertation 学位論文
