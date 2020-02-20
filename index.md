@@ -9,12 +9,12 @@ layout: default
 
 ## Name
 - Shimpei Okuda / 奥田 慎平
-  - Sasahalab, Department of Complex Systems Science, Graduate School of Infomatics, Nagoya University / 名古屋大学大学院　情報学研究科　複雑系科学専攻　笹原研究室
+  - [Sasahalab](https://www.colorlessgreen.info/), Department of Complex Systems Science, Graduate School of Infomatics, Nagoya University / 名古屋大学大学院　情報学研究科　複雑系科学専攻　笹原研究室
 
 ## Research 
 - 研究分野：進化言語学、文化進化、計算社会科学、コーパス言語学
 - 興味の対象
-  - ヒトの進化（生物的にも文化的にも）
+  - ヒトの進化（文化的）
     - なぜ人は言葉を話し、群れ、今のような社会生物になったのか
   - 人と人とのつながり、コミュニティ
     - SNSなどのオンラインでの繋がりとオフラインでの繋がり
