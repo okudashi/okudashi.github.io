@@ -23,6 +23,12 @@ layout: default
 ## News
 
 ### 2020
+7/17-20
+- オンラインで開催される[IC2S2 2020](http://2020.ic2s2.org/6th-international-conference-computational-social-science)にて口頭発表します。
+
+6/9-12
+- オンラインで開催される[JSAI 2020](https://confit.atlas.jp/guide/event/jsai2020/session/2E07-11/category)にて口頭発表します。
+
 4/14-17
 - ベルギー・ブリュッセルにて開催される[Evolang XIII](https://brussels.evolang.org/) で口頭発表します。
 
