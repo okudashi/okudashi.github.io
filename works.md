@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 permalink: /cv/
 ---
@@ -47,4 +47,4 @@ permalink: /cv/
 - Programming languages: Python (intermediate), R (beginner), LATEX (intermediate), SQL (intermediate) 
 - Programming libraries: pandas, Beautiful Soup, matplotlib, ggplot2, nltk, sklearn, PyMySQL
 - Natural languages: Japanese (native), English (beginner)
-- Using tools: Github, Trello, Notion, Slack
+- Using tools: Github, Trello, Notion, Slack -->
